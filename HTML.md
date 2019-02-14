@@ -1,4 +1,4 @@
-# How-To: HTML
+# Learn HTML in 60 Minutes
 A primer on Hypertext Markup Language (HTML) and how to master it in under 60 minutes.
 
 ## 1. The Basics
@@ -98,6 +98,7 @@ Here is the basic skeleton of an HTML document.
 ```
 
 ### Metadata Elements
+Metadata elements are used to specify certain information needed by the browser to properly display your webpage. These elements are nested inside of the documents `<head>` element.
 
 #### `<style>`
 The element defines style rules to be used throughout the web page, in the form of CSS (Cascading Style Sheets). CSS will be explained elsewhere.
@@ -111,20 +112,51 @@ This element is used to define a relationship with an external resource. It is u
 #### `<title>`
 This element defines the title that will appear at the top of the window or in the web page tab in the web browser.
 
-### Organizational Elements
+### Some Useful Tags
+#### `<div>`
+#### `<span>`
+#### `<article>`
+#### `<main>`
+#### `<aside>`
+#### `<header>`
+#### `<footer>`
+#### `<h1>` - `<h6>`
+#### `<p>`
+#### `<strong>`
+#### `<em>`
+#### `<nav>`
+#### `<section>`
+#### `<blockquote>`
+#### `<hr>`
+#### `<ul>` and `<ol>`
+#### `<li>`
+#### `<pre>`
+#### `<a>`
+#### `<br>`
+#### `<cite>`
+#### `<code>`
+#### `<small>`
+#### `<sub>`
+#### `<sup>`
+#### `<time>`
+#### `<audio>`
+#### `<img>`
+#### `<video>`
+#### `<iframe>`
+#### `<script>`
+#### `<table>`
+#### `<tbody>`
+#### `<tr>`
+#### `<th>`
+#### `<td>`
+#### `<tfoot>`
+#### `<thead>`
+#### `<form>`
+#### `<button>`
+#### `<input>`
+#### `<fieldset>`
+#### `<label>`
+#### `<option>`
+#### `<select>`
+#### `<textarea>`
 
-### Block Elements
-
-### Inline Elements
-
-### Multimedia Elements
-
-### Form Elements
-
-### Table Elements
-
-### Misc. Elements
-
-
-## 3. The Examples
-Coming Soon
